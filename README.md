@@ -42,3 +42,13 @@ En este repositorio encontrarán las soluciones a las 4 tareas solicitadas.
   ```
   python script.py
   ```
+
+# Task 3 - Desarrollo Frontend
+
+Aplicación web hecha con JavaScript Vanilla, HTML5 y CSS3.
+
+Se consumen los endpoints de JSONPlaceholder para mostrar una lista de posts.  
+Cada post se puede buscar por título o ampliar para ver su contenido completo y los comentarios asociados.
+
+- [Ver código fuente](Task3/)
+- [Ver demo en GitHub Pages](https://jdiazc0.github.io/5IG-Prueba-Tecnica/Task3/)
